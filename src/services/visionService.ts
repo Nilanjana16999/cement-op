@@ -1,6 +1,6 @@
 // src/services/visionService.ts
 
-const API_KEY = "AIzaSyDCCamdXw6w9_uDmpX7TVEZt6ajrwO8BEk";
+const API_KEY = "***********************";
 const API_URL = `https://vision.googleapis.com/v1/images:annotate?key=${API_KEY}`;
 
 /**
